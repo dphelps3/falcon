@@ -1,20 +1,2 @@
-# dependencies installed by npm
 node_modules
 dist
-
-# build artifacts
-dist
-
-# macOS related files
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Local Netlify folder
-.netlify
-
-# Eleventy Assets
-.cache
-
-# Environment variables
-.env
